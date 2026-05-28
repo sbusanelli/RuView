@@ -1,4 +1,6 @@
-# π RuView
+# π RuView - WiFi Sensing for Presence Detection and Pose Estimation
+
+<!-- SEO Keywords: WiFi sensing, CSI, pose estimation, presence detection, ESP32, vital signs, breathing detection, human activity recognition, smart home, camera-free sensing, RF sensing, computer vision alternative -->
 
 <p align="center">
   <a href="https://x.com/rUv/status/2037556932802761004">
@@ -18,6 +20,19 @@
 **Turn ordinary WiFi into a sensing system.** Detect people, measure breathing and heart rate, track movement, and monitor rooms — through walls, in the dark, with no cameras or wearables. Just physics.
 
 ### π RuView is a WiFi sensing platform that turns radio signals into spatial intelligence.
+
+---
+
+## ✨ Key Features
+
+- 🚶 **Human Presence Detection** - Detect people through walls without cameras
+- ❤️ **Vital Sign Monitoring** - Contactless breathing and heart rate detection
+- 🏃 **Activity Recognition** - Walk, sit, fall detection from CSI patterns
+- 🎯 **Pose Estimation** - 17 COCO keypoints via WiFlow architecture
+- 🌡️ **Environment Mapping** - RF fingerprinting for room identification
+- 😴 **Sleep Quality Monitoring** - Overnight monitoring with apnea screening
+
+---
 
 Every WiFi router already fills your space with radio waves. When people move, breathe, or even sit still, they disturb those waves in measurable ways. RuView captures these disturbances using Channel State Information (CSI) from low-cost ESP32 sensors and turns them into actionable data: who's there, what they're doing, and whether they're okay.
 
